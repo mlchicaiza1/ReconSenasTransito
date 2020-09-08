@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "315268415789",
+    "firebase_url": "https://sistema-recog-senas-transito.firebaseio.com",
+    "project_id": "sistema-recog-senas-transito",
+    "storage_bucket": "sistema-recog-senas-transito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315268415789:android:d477e506f8ce269fcc93a4",
+        "android_client_info": {
+          "package_name": "com.example.mauro.movilvisionglosariolenguajeseas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315268415789-d0defiht28i7dgv3qcvme125mlf44t3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mauro.movilvisionglosariolenguajeseas",
+            "certificate_hash": "74c513124f66aeb0fda0d932352e80d3644ae2df"
+          }
+        },
+        {
+          "client_id": "315268415789-3194j8nl1ssskqd68rkihl6nv9cjjv6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7-Ar0eNhkS_jpLaCIaaoSy85l1pYDbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315268415789-3194j8nl1ssskqd68rkihl6nv9cjjv6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315268415789:android:3e1a33823dad16b8cc93a4",
+        "android_client_info": {
+          "package_name": "com.example.reconsenastransito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315268415789-3194j8nl1ssskqd68rkihl6nv9cjjv6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7-Ar0eNhkS_jpLaCIaaoSy85l1pYDbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315268415789-3194j8nl1ssskqd68rkihl6nv9cjjv6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context="com.example.reconsenastransito.Fragment.inicioFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageButton
+            android:id="@+id/imbtnInicio"
+            style="@android:style/Widget.DeviceDefault.ImageButton"
+            android:layout_width="238dp"
+            android:layout_height="192dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="88dp"
+            android:layout_marginTop="299dp"
+            android:background="@drawable/boton_redondo"
+            android:scaleType="centerCrop"
+            android:src="@drawable/iconcarro"
+            tools:layout_editor_absoluteX="167dp"
+            tools:layout_editor_absoluteY="89dp" />
+
+        <ImageButton
+            android:id="@+id/imbtnSalir"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@+id/imbtnAyuda"
+            android:background="@drawable/btn_follow"
+            android:scaleType="centerCrop"
+            android:src="@drawable/exit" />
+
+    </RelativeLayout>
+</FrameLayout>
